@@ -1,0 +1,14 @@
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\bin\Debug\net8.0\ClinicaPrivada.exe
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\bin\Debug\net8.0\ClinicaPrivada.deps.json
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\bin\Debug\net8.0\ClinicaPrivada.runtimeconfig.json
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\bin\Debug\net8.0\ClinicaPrivada.dll
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\bin\Debug\net8.0\ClinicaPrivada.pdb
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\ClinicaPrivada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\ClinicaPrivada.AssemblyInfoInputs.cache
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\ClinicaPrivada.AssemblyInfo.cs
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\ClinicaPrivada.csproj.CoreCompileInputs.cache
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\ClinicaPrivada.dll
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\refint\ClinicaPrivada.dll
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\ClinicaPrivada.pdb
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\ClinicaPrivada.genruntimeconfig.cache
+C:\Users\Nsimba Samuel\Downloads\ClinicaFinal\CLINICA_PP1\obj\Debug\net8.0\ref\ClinicaPrivada.dll
